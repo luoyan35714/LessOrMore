@@ -1,0 +1,21 @@
+---
+layout: default
+title: Tags
+header: Posts By Tag
+---
+{% include solar/setup %}
+<div class="index_Box">
+	<h1>目录</h1>
+	<ul class="tag_box inline">
+	  {% assign tags_list = site.tags %}  
+	  {% include solar/tags_list %}
+	</ul>
+</div>
+
+{% for tag in site.tags %} 
+  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <ul>
+    {% assign pages_list = tag[1] %}  
+    {% include solar/pages_list %}
+  </ul>
+{% endfor %}
