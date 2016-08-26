@@ -11,7 +11,7 @@ permalink: /books/
 2016书单
 -----------------------------------------------------------------
 
-+ 《Think in java 4th》 -- INPROGRESS
++ 《Think in java 4th》
 + 《鸟哥的Linux私房菜基础学习篇-第三版》
 + 《重构》
 + 《Getting real》
@@ -20,5 +20,5 @@ permalink: /books/
 + 《算法(第四版)》
 + 《Maven实战》
 + 《HTTP协议详解》
-+ 《TCP/IP协议详解-卷一
++ 《TCP/IP协议详解-卷一》
 + 《阿弥陀佛么么哒》
