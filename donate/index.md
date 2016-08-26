@@ -1,12 +1,11 @@
 ---
-layout: default
-title: 捐赠
-header: 捐赠
+layout: post
+title: 打赏
+header: 打赏
 ---
 
 您的支持是作者写作最大的动力！
-==============================
-
+------------------------------
 <hr>
 
 如果您喜欢这个博客，读后觉得收获很大...
@@ -18,13 +17,10 @@ header: 捐赠
 点击上面小额赞助即可呦！
 <br>
 
-![Thank you very much!](/images/freud.jpg)
+![Thank you very much!](/styles/images/freud.jpg)
 <br>
 
->声明: 此博客空间用于分享作者个人的一些技术相关， 此网站的所有内容完全免费
-
-您的支持是作者写作最大的动力！
-==============================
+>声明: 此博客空间用于分享作者个人的一些技术相关， 此网站基于[MIT开源协议](https://github.com/luoyan35714/LessOrMore/blob/master/LICENSE)所有内容完全免费，请放心使用。
 
 <hr>
 
@@ -34,7 +30,7 @@ header: 捐赠
 <hr>
 您可以选择手机支付宝扫一扫
 
-<img src="/images/zhifubao_2.JPG" alt="支付宝二维码付款给Freud" width="310" />
+<img src="/styles/images/zhifubao.PNG" alt="支付宝二维码付款给Freud" width="310" />
 
 <br>
 <br>
@@ -45,7 +41,7 @@ header: 捐赠
 <hr>
 您可以选择手机微信扫一扫
 
-![微信二维码付款给Freud](/images/weixin.png)
+![微信二维码付款给Freud](/styles/images/weixin.png)
 
 <br>
 <br>

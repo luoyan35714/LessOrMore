@@ -6,6 +6,10 @@ categories: 翻译文章
 tag: interview
 ---
 
+* content
+{:toc}
+
+
 本文翻译自[Linked In](https://www.linkedin.com/)，作者Minal Mehta
 
 原文地址 [I’ve Interviewed 100s of Candidates and the Ones I Hire Always Do This](http://www.linkedin.com/pulse/20141002164029-1473578-how-to-win-an-interview-before-it-starts?midToken=AQH6jyhMOpWb0g&trk=eml-b2_content_ecosystem_digest-recommended_articles-74-null&fromEmail=fromEmail&ut=3Sa86TzhqLj6s1)
@@ -13,7 +17,7 @@ tag: interview
 
 面试是很有压力的一件事，通常，你只有不到一个小时的时间来使面试官相信你是所有候选者中最合适那一个。这个面试官很有可能还会在当天面试其他的候选者并且还有其他的事情要做。那你如何才能够脱颖而出呢。
 
-充分的准备。知道哪些事情是想要让面试官知道的
+充分的准备，知道哪些事情是想要让面试官知道的。
 ====================================
 
 通过上百个我做组织的面试者们，我发现最合适的那些面试者永远都是表达最清晰的。
@@ -35,7 +39,7 @@ tag: interview
 
 我个人也一直将同样的方法用在各种面试中。“如果你处在一个特定的情境下，你会怎么做？” 花点时间去建立一个共享的空间，让面试官了解情况，然后你们才能一起来聊需要做什么。
 
-保持冷静。记住这次面试是双向的
+保持冷静，记住这次面试是双向的。
 ====================================
 
 深呼吸然后记住这只是一次谈话，面试官给你一个评价是很重要的，但是同样重要的是你也要给面试官一个评价，并且确认这是你想要工作的地方。

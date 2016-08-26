@@ -1,5 +1,10 @@
+
 <div class="banner">
   <div class="container">
-    <a href="/categories/#{{page.categories}}-ref">{{page.categories}}</a> -> <a href="/tag/#{{page.tag}}-ref">{{page.tag}}</a>
+  	{% if page.categories != null %}
+    	<a href="/categories/#{{page.categories}}-ref">{{page.categories}}</a> -> <a href="/tag/#{{page.tag}}-ref">{{page.tag}}</a>
+    {% else %}
+    	子曰：学而不思则罔，思而不学则殆。
+    {% endif %}
   </div>
 </div>
