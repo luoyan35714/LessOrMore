@@ -17,16 +17,16 @@
 
 使用git从[LessOrMore](https://github.com/luoyan35714/LessOrMore.git)主页下载项目
 
-{% highlight bash %}
+``` bash
 git clone https://github.com/luoyan35714/LessOrMore.git
-{% endhighlight %}
+```
 
 配置
 ------------------------------------
 
 `LessOrMore`项目需要配置的只有一个文件`_config.xml`，打开之后按照如下进行配置。
 
-{% highlight bash %}
+``` bash
 name: 博客名称
 email: 邮箱地址
 author: 作者名
@@ -41,14 +41,14 @@ FB:
         short_name : 多说账户
     disqus :
         short_name : Disqus账户
-{% endhighlight %}
+```
 
 如何写文章
 ------------------------------------
 
 在`LessOrMore/_posts`目录下新建一个文件，可以创建文件夹并在文件夹中添加文件，方便维护。在新建文件中粘贴如下信息，并修改以下的`titile`,`date`,`categories`,`tag`的相关信息，添加`* content {:toc}`为目录相关信息，在进行正文书写前需要在目录和正文之间输入至少2行空行。然后按照正常的Markdown语法书写正文。
 
-{% highlight bash %}
+``` bash
 ---
 layout: post
 #标题配置
@@ -66,14 +66,14 @@ tag: 教程
 
 
 我是正文。我是正文。我是正文。我是正文。我是正文。我是正文。
-{% endhighlight %}
+```
 
 执行
 ------------------------------------
 
-{% highlight bash %}
+``` bash
 jekyll server
-{% endhighlight %}
+```
 
 效果
 ------------------------------------
@@ -92,7 +92,7 @@ jekyll server
 关于作者
 ====================================
 
-只是个抱着开源心态，爱折腾的Java程序猿。更多个人信息和联系方式可以参照[我的简介](http://www.hifreud.com/Resume.io/)。
+热爱开源，热爱折腾的Java程序猿。更多个人信息和联系方式可以参照[我的简介](http://www.hifreud.com/Resume.io/)。
 
 关于打赏
 ====================================
