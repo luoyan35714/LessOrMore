@@ -2,7 +2,8 @@
 <div class="banner">
   <div class="container">
   	{% if page.categories != null %}
-    	<a href="/categories/#{{page.categories}}-ref">{{page.categories}}</a> -> <a href="/tag/#{{page.tag}}-ref">{{page.tag}}</a>
+    	<a href="/categories/#{{page.categories}}-ref">{{page.categories}}</a>	/
+    	<a href="/tag/#{{page.tag}}-ref">{{page.tag}}</a>
     {% else %}
     	{{ site.banner }}
     {% endif %}

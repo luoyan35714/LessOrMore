@@ -3,10 +3,18 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ page.title }}</title>
-	<link href="/styles/css/index.css" rel="stylesheet">
-	<link rel="shortcut icon" href="/styles/images/favicon.jpg">
+
+	<link rel="shortcut icon" href="{{ '/styles/images/favicon.jpg' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="icon" href="{{ '/styles/images/favicon.jpg' | prepend: site.baseurl | prepend: site.url }}">
+
+	<link rel="stylesheet" href="{{ '/styles/css/index.css' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="stylesheet" href="{{ '/styles/css/fontawesome/css/font-awesome.min.css' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+	
 	<meta name="description" content="{{site.meta_description}}">
-	<script src="/styles/js/jquery.min.js"></script>
+
+	<script src="{{ '/styles/js/jquery.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 	<!--[if lt IE 9]>
     	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   	<![endif]-->
