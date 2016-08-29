@@ -59,8 +59,9 @@ layout: default
                     <ul>
                   {% endif %}
 
-                  <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-
+                  <ol class="breadcrumb">
+                   <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                  </ol>
                   {% if forloop.last %}
                     </ul>
                   {% else %}
