@@ -35,6 +35,8 @@ git clone https://github.com/luoyan35714/LessOrMore.git
 
 `LessOrMore`项目需要配置的只有一个文件`_config.xml`，打开之后按照如下进行配置。
 
+> 特别注意`baseurl`的配置。如果是`***.github.io`项目，不修改为空''的话，会导致JS,CSS等静态资源无法找到的错误
+
 {% highlight bash %}
 name: 博客名称
 email: 邮箱地址
