@@ -3,7 +3,7 @@
 
 致谢
 ====================================
-+ 感谢[Less官网]()的样式，本Jekyll框架的样式都是基于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。
++ 感谢[Less官网](http://lesscss.cn/)的样式，本Jekyll框架的样式都是基于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。
 + 感谢[Github](https://github.com/)提供的代码维护和发布平台
 + 感谢[Jekyll](https://jekyllrb.com/)团队做出如此优秀的产品
 + 感谢[Solar](https://github.com/mattvh/solar-theme-jekyll)的原作者[Matt Harzewski](http://www.webmaster-source.com/)，在`2014.11`-`2016.09`的两年间，我的博客选用了此样式模版
@@ -24,7 +24,7 @@ git clone https://github.com/luoyan35714/LessOrMore.git
 配置
 ------------------------------------
 
-`LessOrMore`项目需要配置的只有一个文件`_config.xml`，打开之后按照如下进行配置。
+`LessOrMore`项目需要配置的只有一个文件`_config.yml`，打开之后按照如下进行配置。
 
 > 特别注意`baseurl`的配置。如果是`***.github.io`项目，不修改为空''的话，会导致JS,CSS等静态资源无法找到的错误
 
