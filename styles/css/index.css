@@ -7117,3 +7117,8 @@ td.visible-print {
     display: none !important;
   }
 }
+
+:target{
+    padding-top: 70px;
+    margin-top: -70px;
+}
