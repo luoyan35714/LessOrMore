@@ -13,6 +13,7 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ '/feed.xml' | prepend: site.baseurl }}">
 	
+	<meta name="keywords" content="{{ page.title | append: ', ' | append: site.name | append: ', ' | append: site.meta_description}}">
 	<meta name="description" content="{{site.meta_description}}">
 
 	<script src="{{ '/styles/js/jquery.min.js' | prepend: site.baseurl }}"></script>
