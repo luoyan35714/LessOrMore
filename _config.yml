@@ -27,7 +27,7 @@ baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
 FB:
   comments :
-    provider : duoshuo
+    provider : yungentie
     duoshuo:
         short_name : luoyan35714
     disqus :
