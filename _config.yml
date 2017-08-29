@@ -19,7 +19,7 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 github_username: luoyan35714
 #highlighter: Rouge
-#highlighter: Pygments
+highlighter: Pygments
 
 # Build settings
 markdown: kramdown
