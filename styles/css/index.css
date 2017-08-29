@@ -5807,7 +5807,7 @@ body {
  * Generated via Pygments and Jekyll, these are snippets of HTML, CSS, and JS.
  */
 .highlight {
-  display: none;
+  /* display: none; */
   /* hidden by default, until >480px */
   padding: 9px 14px;
   margin-bottom: 14px;
