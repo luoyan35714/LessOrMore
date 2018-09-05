@@ -2,14 +2,14 @@
 name: Less Or More
 email: luoyan35714@126.com
 author: Freud Kang
-url: http://www.hifreud.com
+url: 
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
-description: Actually, less is more!
+baseurl: "blog2"
+description: 坚持规划及克制， 努力学习与运用。
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: 坚持规划及克制， 努力学习与运用， 时时奉献和自省， 不断创新与创造。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
