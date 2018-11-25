@@ -116,18 +116,7 @@ jekyll server
 
 热爱开源，热爱折腾的Java程序猿。更多个人信息和联系方式可以参照[我的简介](http://www.hifreud.com/Resume.io/)。
 
-关于打赏
+写在最后
 ====================================
 
 如果你也像我一样在寻觅一个简洁的博客主题。不妨试下LessOrMore。
-
-当然你也可以为了我的工作打赏！以激励我做出更好的东西。
-
-支付宝
-----------------
-
-<img src="/styles/images/zhifubao.PNG" alt="支付宝二维码付款给Freud" width="310" />
-
-微信
-----------------
-![微信二维码付款给Freud](/styles/images/weixin.png)
