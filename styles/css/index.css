@@ -7118,6 +7118,10 @@ td.visible-print {
   }
 }
 
+.topping{
+  color:#c7254e;
+}
+
 /**
 :target{
     padding-top: 70px;

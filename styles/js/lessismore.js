@@ -40,8 +40,8 @@
 
     // 设置标题样式
     function resetHeadersStyles(){
-      resetHeaderItemStyles($(".docs-content h1"));
-      resetHeaderItemStyles($(".docs-content h2"));
+      // resetHeaderItemStyles($(".docs-content h1"));
+      // resetHeaderItemStyles($(".docs-content h2"));
     }
 
     function resetHeaderItemStyles(headers){

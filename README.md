@@ -81,6 +81,8 @@ date:   2016-08-27 01:08:00 +0800
 categories: document
 #小类配置
 tag: 教程
+#设置文章置顶
+topping: true
 ---
 
 * content

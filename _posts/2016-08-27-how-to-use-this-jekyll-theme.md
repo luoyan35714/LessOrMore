@@ -4,6 +4,7 @@ title:  如何使用LessOrMore这个Jekyll模版
 date:   2016-08-27 01:08:00 +0800
 categories: document
 tag: 教程
+topping: true
 ---
 
 * content
@@ -72,6 +73,8 @@ date:   2016-08-27 01:08:00 +0800
 categories: document
 #小类配置
 tag: 教程
+#设置文章置顶
+topping: true
 ---
 
 * content
