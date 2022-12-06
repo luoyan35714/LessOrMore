@@ -79,7 +79,7 @@ layout: default
                   {% for post in site.posts  %}
                     {% if post.topping %}
                       <ol class="breadcrumb">
-                        <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{{topping}}</a></li>
+                        <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                       </ol>
                     {% endif %}
                   {% endfor %}
